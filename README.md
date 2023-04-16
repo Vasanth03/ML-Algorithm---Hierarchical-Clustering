@@ -1,4 +1,4 @@
-# ML-Algorithm (Unsupervised Learning)Hierarchical-Clustering
+# Airlines Data - ML-Algorithm (Unsupervised Learning) Hierarchical-Clustering
 Clustering for the airlines data was performed to obtain optimum number of clusters.
 
 >> Hierarchical-Clustering
